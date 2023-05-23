@@ -7,7 +7,7 @@ This is an implementation of Deep Reinforcement Q-Learning, applied to train an 
 
 The details of the state observables were not provided in the course material, but believe are related to directional perception (possibly multiple modes).
 
-The criteria for solving the environment with the agent, is an achievement of an average score of at least +13 over 100 consecutive episodes.  The benchmark implementation from Udacity solved the environment in 1800 episodes.  This implementation solved the environment in 795 episodes.
+The criteria for solving the environment with the agent, is an achievement of an average score of at least +13 over 100 consecutive episodes.  The Udacity benchmark was to solve the environment in 1800 episodes.  This implementation solved the environment in 795 episodes.
 
 + Follow instructions [here](https://github.com/udacity/Value-based-methods#dependencies) to set up the environment, *with the following changes:
   - Before running `pip install .`, edit `Value-based-methods/python/requirements.txt` and remove the `torch==0.4.0` line
