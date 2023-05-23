@@ -19,4 +19,4 @@ The criteria for solving the environment with the agent, is an achievement of an
   - [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
   - [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
 + Place the Unity Environment zip file in the `p1_navigation/` folder of the repository cloned in the first step, and unzip the file.
-+ Create jupyter notebook instance from terminal with `jupyter notebook` command.  Navigate to BananaNavCode.ipynb and follow the instructions there to train or evaluate an agent.
++ Create jupyter notebook instance from terminal with `jupyter notebook` command.  Navigate to `BananaNavCode.ipynb` and follow the instructions there to train or evaluate an agent.
